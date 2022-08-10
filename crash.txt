@@ -1,0 +1,2 @@
+Sun Mar 07 18:25:34 EST 2021 Main Update Loop threw an exception:
+java.lang.NullPointerException
